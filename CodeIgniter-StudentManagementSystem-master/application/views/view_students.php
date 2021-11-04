@@ -7,7 +7,7 @@
 	<title><?php echo $title; ?></title>
 
 	<!--inlcuding bootstrap stylesheet-->
-	<link href="/CodeIgniter/bootstrap3/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdn9aicvpqxg/b/bucket-uts/o/css%2Fbootstrap-theme.min.css" rel="stylesheet">
 
 	
 
